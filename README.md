@@ -15,7 +15,7 @@ Keras --> https://keras.io/ <br />
 Python (Anaconda distribution) --> https://www.anaconda.com/ 
 
 ## Contents
-**load_data.py**: Loads the data that we downloaded from the links in the section **Dataset** and transforms them in a suitable (numpy) format.
+**load_data.py**: Loads the data that we downloaded from the links in the section "**Dataset**" and transforms them in a suitable (numpy) format.
 
 **cnn_big_earth_keras.py**: Performs the training and testing of the proposed methodology.
 
