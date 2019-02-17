@@ -10,8 +10,8 @@ The performance of the proposed scheme is evaluated on the UC Merced Land Use da
 ### Framework 
 We use the well-known deep learning frameworks, Tensorflow (1.1) and Keras (2.1.3), in Python 3.6.
 
-Tensorflow --> https://www.tensorflow.org/
-Keras --> https://keras.io/
+Tensorflow --> https://www.tensorflow.org/ <br />
+Keras --> https://keras.io/ <br />
 Python (Anaconda distribution) --> https://www.anaconda.com/ 
 
 ## Contents
