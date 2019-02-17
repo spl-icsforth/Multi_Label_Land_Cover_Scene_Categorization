@@ -8,7 +8,7 @@ This repository contains Python code designed for the the problem of multi-label
 The performance of the proposed scheme is evaluated on the UC Merced Land Use dataset. Given that UC-Merced is a dataset that originally corresponds to the multi-class classification problem, in this work we adopt a multi-label variation of the dataset. UC-Merced is available in http://weegee.vision.ucmerced.edu/datasets/landuse.html. The modified labelset that we utilize in this work is available in http://bigearth.eu/datasets.html (in the context of the BigEarth research project).
 
 ### Framework 
-We use the well-known deep learning frameworks, tensorflow (1.1) and keras (2.1.3), in Python 3.6.
+We use the well-known deep learning frameworks, Tensorflow (1.1) and Keras (2.1.3), in Python 3.6.
 
 Tensorflow --> https://www.tensorflow.org/
 Keras --> https://keras.io/
