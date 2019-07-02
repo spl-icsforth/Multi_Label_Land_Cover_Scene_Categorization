@@ -25,7 +25,7 @@ Python (Anaconda distribution) --> https://www.anaconda.com/
 
 ## References
 1. R. Stivaktakis, G. Tsagkatakis, and P. Tsakalides,
-“Deep Learning for Multi-label Land Cover Scene Categorization Using Data Augmentation” IEEE Geoscience and Remote Sensing Letters, vol. 16 issue 7, pp. 1031 - 1035, 2019.
+“Deep Learning for Multi-label Land Cover Scene Categorization Using Data Augmentation” IEEE Geoscience and Remote Sensing Letters, vol. 16, issue 7, pp. 1031 - 1035, 2019.
 
 2. B. Chaudhuri, B. Demir, S. Chaudhuri, L. Bruzzone,
 "Multi-label Remote Sensing Image Retrieval using a Semi-Supervised Graph-Theoretic Method", IEEE Transactions on Geoscience and Remote Sensing, vol. 56, no.1, 2018
